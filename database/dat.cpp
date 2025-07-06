@@ -26,6 +26,5 @@ int main() {
 
     cout << "\n--- Search by period ---\n";
     db.searchByDateRange("2025-06-01", "2025-06-30");
-
     return 0;
 }
